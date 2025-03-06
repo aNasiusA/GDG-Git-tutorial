@@ -5,3 +5,6 @@
 - Sign-In feature
 
 - Sick cool new feature
+
+- Sign-up feature
+
